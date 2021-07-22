@@ -1,0 +1,1 @@
+'unmae' without an option will print kernal name.
